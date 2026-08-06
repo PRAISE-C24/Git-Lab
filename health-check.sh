@@ -1,2 +1,4 @@
+#!/bin/bash
+
 echo "Checking CPU..."
-Checking Memory...
+echo "Checking Memory..."
